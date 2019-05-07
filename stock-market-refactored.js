@@ -11,3 +11,5 @@ function maxProfit(arr) {
 }
 let Array = [45, 24, 35, 31, 40, 38, 11];
 console.log(`The max profit is: ` + maxProfit(Array));
+
+// Credit for Gergely (Calgary LHL April- July 2019) for brainstorming solution.
